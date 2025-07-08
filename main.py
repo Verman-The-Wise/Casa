@@ -43,7 +43,7 @@ def write_data(glossary):
 <h2>{title}</h2>
 <main>
 {description}
-<footer><p>Aenwyn</p></footer>
+<footer><small>Aenwyn<br><a href="/">Home</a></small></footer>
 </main>
 </body>
 </html>
